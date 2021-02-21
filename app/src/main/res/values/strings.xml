@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">TFG_AND_2</string>
+
+    <!--TITULOS DE LAS ACTIVITIES-->
+    <string name="title_activity_elegir_asignatura">elegir_asignatura</string>
+    <string name="title_activity_nuevo_usuario">nuevo_usuario</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_comprobar_clase">ComprobarClase</string>
+    <string name="title_activity_agregar_clase">AgregarClase</string>
+    <string name="title_activity_acciones">Acciones</string>
+
+
+    <!--STRINGS DE LOGIN-->
+    <string name="nombre_app">NOMBRE APP</string>
+    <string name="login_dni">DNI</string>
+    <string name="login_password">PASSWORD</string>
+    <string name="button_sign_in">SIGN IN</string>
+    <string name="button_login">LOGIN</string>
+
+
+    <!--STRINGS DE AGREGAR CLASE-->
+
+
+    <!--STRINGS DE AGREGAR CLASE-->
+    <string name="texto_horario">HORARIO</string>
+
+    <!--STRINGS DE COMPROBAR CLASE-->
+
+
+    <!--STRINGS DE ELEGIR ASIGNATURA-->
+    <string name="texto_carreras">CARRERAS</string>
+    <string name="button_carreras">ENVIAR</string>
+    <string name="texto_asignaturas">ASIGNATURAS</string>
+    <string name="button_agregar_asignatura">AGREGAR</string>
+    <string name="button_volver_acciones">VOLVER</string>
+
+
+    <!--STRINGS DE ACCIONES-->
+    <string name="button_acciones_agregar_asignatura">AGREGAR ASIGNATURA</string>
+    <string name="button_acciones_crear_clase">CREAR CLASE</string>
+    <string name="button_acciones_agregar_clase">AGREGAR CLASE</string>
+    <string name="button_acciones_comprobar_clase">COMPROBAR CLASES</string>
+    <string name="button_acciones_salir">SALIR</string>
+
+
+    <!--STRINGS DE NUEVO USUARIO-->
+    <string name="nuevo_usuario_dni">DNI</string>
+    <string name="nuevo_usuario_nombre">Nombre</string>
+    <string name="nuevo_usuario_apellido">Apellido</string>
+    <string name="nuevo_usuario_password">Password</string>
+    <string name="button_volver_login">VOLVER</string>
+    <string name="button_mandar_datos">CREAR</string>
+
+
+    <!--MAS COSAS-->
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_in_name">Nombre</string>
+    <string name="button_sign_in_send">PING</string>
+    <string name="name">Nombre:</string>
+    <string name="acciones_menu">MENU</string>
+    <string name="title_activity_crear_clase">crear_clase</string>
+    <string name="title_activity_asistencia_clases">AsistenciaClases</string>
+    <string name="textoTabla">Tabla</string>
+    <string name="comprobar_asistencia">COMPROBAR ASISTENCIA</string>
+
+</resources>

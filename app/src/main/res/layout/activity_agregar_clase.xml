@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context="com.example.asistencia.AgregarClase">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:gravity="start">
+        <Button
+            android:id="@+id/button_volver_acciones"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/button_volver_acciones"
+            android:onClick="goAcciones"
+            android:background="@drawable/boton_redondo"
+            android:layout_margin="5dp" />
+    </LinearLayout>
+
+</LinearLayout>
