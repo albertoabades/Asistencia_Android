@@ -1,4 +1,4 @@
-package com.example.asistencia;
+package com.albertoabades.asistencia;
 
 /**
  * Created by alberto on 17/4/18.

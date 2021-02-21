@@ -1,4 +1,4 @@
-package com.example.asistencia;
+package com.albertoabades.asistencia;
 
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;

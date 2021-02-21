@@ -4,7 +4,7 @@
     android:layout_height="fill_parent"
     android:orientation="vertical"
 
-    tools:context="com.abades.alberto.tfg_and_2.ElegirAsignatura">
+    tools:context="com.albertoabades.asistencia.ElegirAsignatura">
 
     <LinearLayout
         android:layout_width="fill_parent"

@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center_horizontal"
-    tools:context="com.abades.alberto.asistencia.AsistenciaClases">
+    tools:context="com.albertoabades.asistencia.AsistenciaClases">
 
     <LinearLayout
         android:orientation="vertical"

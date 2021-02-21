@@ -1,4 +1,4 @@
-package com.example.asistencia;
+package com.albertoabades.asistencia;
 
 import android.app.Activity;
 import android.content.res.Resources;
