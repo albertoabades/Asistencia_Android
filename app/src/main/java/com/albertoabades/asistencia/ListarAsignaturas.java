@@ -1,8 +1,5 @@
 package com.albertoabades.asistencia;
 
-/**
- * Created by alberto on 17/4/18.
- */
 public class ListarAsignaturas {
 
     private static final int RAW_INT_LENGTH = 4;
